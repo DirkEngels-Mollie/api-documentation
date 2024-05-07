@@ -2,7 +2,6 @@ Get terminal
 ============
 .. api-name:: Terminals API
    :version: 2
-   :beta: true
 
 .. endpoint::
    :method: GET
@@ -15,7 +14,6 @@ Get terminal
 
 With this endpoint you can retrieve a single terminal object by its terminal ID. This terminal object symbolizes
 the physical device that you have received from us.
-This endpoint is not publicly available yet — please reach out to your account manager to sign up for early access.
 
 For more information on accepting point-of-sale payments, please refer to the
 :doc:`point-of-sale guide </point-of-sale/overview>`.

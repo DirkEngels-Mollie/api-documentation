@@ -2,7 +2,6 @@ List terminals
 ==============
 .. api-name:: Terminals API
    :version: 2
-   :beta: true
 
 .. endpoint::
    :method: GET
