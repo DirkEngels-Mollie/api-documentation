@@ -1,8 +1,7 @@
 Test your point-of-sale integration
 ===================================
-.. note:: Point-of-sale is currently in beta. If you are interested in offering point-of-sale payments, please see
-   `this page <https://www.mollie.com/products/payments-terminal>`_ for more information on our product offering. Once
-   there, you can register your interest to be kept up-to-date.
+If you are interested in offering point-of-sale payments, please see
+   `this page <https://www.mollie.com/products/payments-terminal>`_ for more information on our product offering.
 
 As explained in our guide on :doc:`Testing the Mollie API </overview/testing>`, you can use test mode to ensure your
 integration works as expected, before rolling it out to your customers.

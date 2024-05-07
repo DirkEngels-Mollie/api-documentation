@@ -1,8 +1,7 @@
 Point-of-sale payments
 ======================
-.. note:: Point-of-sale is currently in beta. If you are interested in offering point-of-sale payments, please see
-   `this page <https://www.mollie.com/products/payments-terminal>`_ for more information on our product offering. Once
-   there, you can register your interest to be kept up-to-date.
+If you are interested in offering point-of-sale payments, please see
+`this page <https://www.mollie.com/products/payments-terminal>`_ for more information on our product offering.
 
 With Mollie you can accept in-person card payments next to your online payments, neatly unifying both your online and
 in-person presence. Mollie provides pre-certified card readers ('terminals') as well as fleet management tools via the
