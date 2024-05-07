@@ -6,6 +6,10 @@ Changelog
 Occasionally, we will add new resources, new fields, or new possible values to existing fields to the v2 Mollie API. All
 changes are documented here.
 
+May 2024
+========
+- Removed beta flag for the :doc:`/reference/v2/terminals-api/overview` endpoints.
+
 April 2024
 ==========
 - :doc:`Placing a hold on a payment </payments/place-a-hold-for-a-payment>` is now general available.
