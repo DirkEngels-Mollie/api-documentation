@@ -1,8 +1,7 @@
 Terminals API
 =============
-
-If you are interested in offering point-of-sale payments, please see
-`this page <https://www.mollie.com/products/payments-terminal>`_ for more information on our product offering.
+.. note:: If you are interested in offering point-of-sale payments, please see
+   `this page <https://www.mollie.com/products/payments-terminal>`_ for more information on our product offering.
 
 If you process point-of-sale payments with Mollie, the Terminals API allows you to manage your point-of-sale devices.
 
