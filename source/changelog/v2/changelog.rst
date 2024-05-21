@@ -8,7 +8,7 @@ changes are documented here.
 
 May 2024
 ========
-- Removed beta flag for the :doc:`/reference/v2/terminals-api/overview` endpoints.
+- Terminals API is now generally available
 
 April 2024
 ==========
